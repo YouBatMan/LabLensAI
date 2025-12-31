@@ -1,0 +1,7 @@
+{
+  "name": "LabLens_1.0",
+  "description": "A high-end health dashboard that uses AI to translate complex medical lab reports into intuitive visual trends and conversational insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
